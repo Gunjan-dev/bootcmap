@@ -1,2 +1,2 @@
 this is first and initial line of function
-this line added in feature1
+this line added by feature2
